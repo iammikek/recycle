@@ -29,7 +29,7 @@
                         <div class="card-header">
 
                             <h2>{{$n->day->name}}</h2>
-                            <h3>{{$n->Category->name}}</h3>
+                            <h3>{{$n->category->name}}</h3>
                         </div>
                         <div class="card-body">
                             <h3 class="card-title">{{ $n->tipologia_id}} </h3>
